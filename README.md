@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdumbrav
+- 👋 Hi, I’m Mihai Dumbrava
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning RNA Seq, scRNA Seq, Spatial Transcriptomics and other -omics approaches
 - 📫 How to reach me: dumbrava.mihai@mayo.edu
